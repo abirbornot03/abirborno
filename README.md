@@ -1,4 +1,4 @@
-![I am abirbornot03t](https://github.com/abirbornot03t03/abirbornot03/blob/main/code.png)
+![I am abirbornot03](https://github.com/abirbornot03/abirbornot03/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Abir hasnat borno</h1>
 <h3 align="center">Programmer | Web Designer | scout| Speed Learner|voice artist</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=abirbornot03t03&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=abirbornot03&color=red)
 
 Skills: C / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS /numpy/panda
 
@@ -16,7 +16,7 @@ Skills: C / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS /numpy/panda
 
 - 🌱 I’m currently learning Golang, Java, sql,postgracesql and data analytices
 
-- 👨‍💻 All of my projects are available at [https://github.com/abirbornot03t03](https://github.com/abirbornot03t03)
+- 👨‍💻 All of my projects are available at [https://github.com/abirbornot03](https://github.com/abirbornot03)
 
 - 📫 How to reach me **bornoavaenterprice@gmail.com*
 ## Use To Code
@@ -47,18 +47,18 @@ Skills: C / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS /numpy/panda
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/abirbornot03t03">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abirbornot03t03&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/abirbornot03">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abirbornot03&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/abirbornot03t03"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abirbornot03t03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abirbornot03t03"><img alt="borno's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abirbornot03t03&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abirbornot03"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abirbornot03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abirbornot03"><img alt="borno's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abirbornot03&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![abir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abirbornot03t03&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![abir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abirbornot03&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
