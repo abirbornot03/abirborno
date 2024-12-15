@@ -53,8 +53,8 @@ Skills: C / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS /numpy/panda
 </p>
 
 <a> 
-    <a href="https://github.com/abirbornot03"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abirbornot03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abirbornot03"><img alt="borno's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abirbornot03&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abirbornot03"><img alt="A bir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abirbornot03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abirbornot03"><img alt="A bir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abirbornot03&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
